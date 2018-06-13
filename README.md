@@ -1,1 +1,3 @@
 # newtxt
+#new.py
+# ass
